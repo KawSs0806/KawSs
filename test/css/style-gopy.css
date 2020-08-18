@@ -1,0 +1,41 @@
+*{
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.menu ul{
+	list-style-type: none;
+	overflow: hidden;
+}
+
+.menu li, a{
+	float: left;
+	padding: 10px;
+	text-decoration: none;
+	color: gray;
+	font-size: 18px;
+}
+
+ul li a:hover{
+	background-color: gray;
+	color: white;
+}
+
+.banner h1{
+	background-color: gray;
+	text-align: center;
+}
+
+.line {
+	margin: 50px;
+	margin-left: 400px;
+}
+
+.keyboard {
+	padding-left: 400px;
+}
+
+#input {
+	margin-left: 620px;
+}

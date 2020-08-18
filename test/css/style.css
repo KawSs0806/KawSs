@@ -1,0 +1,54 @@
+*{
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.menu ul{
+	list-style-type: none;
+	overflow: hidden;
+}
+
+.menu li, a{
+	float: left;
+	padding: 10px;
+	text-decoration: none;
+	color: gray;
+	font-size: 18px;
+}
+
+ul li a:hover{
+	background-color: gray;
+	color: white;
+}
+
+
+.banner h2{
+	color: white;
+	text-align: center;
+	position: relative;
+	top: -100px;
+}
+
+.main {
+	background-color: #e6e6e6;
+	margin-top: -32px;
+}
+
+.main ul{
+	list-style-type: none;
+	overflow: hidden;
+}
+
+.main li , h3, p{
+	float: left;
+	padding: 15px;
+}
+
+.main li , p{
+	font-size: 20px;
+}
+
+.main h3{
+	font-size: 30px;
+}
