@@ -1,0 +1,49 @@
+*{
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.menu ul{
+	list-style-type: none;
+	overflow: hidden;
+}
+
+.menu li, a{
+	float: left;
+	padding: 10px;
+	text-decoration: none;
+	color: gray;
+	font-size: 18px;
+}
+
+ul li a:hover{
+	background-color: gray;
+	color: white;
+}
+
+.banner h2{
+	color: #33cccc;
+	text-align: center;
+	position: relative;
+	top: -175px;
+	font-size: 100px;
+}
+
+.main {
+	margin-top: -80px;
+}
+
+.main ul{
+	list-style-type: none;
+	overflow: hidden;
+}
+
+.main li{
+	float: left;
+	padding: 12.5px;
+	margin: 11px;	
+	border: 1px solid #e6e6e6;
+	border-radius: 2%;
+
+}
